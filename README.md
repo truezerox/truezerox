@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently working on Kotlin development and Web Development
 - 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on Java or Kotlin
+- 👯 I’m looking to collaborate on html/css/php/etc or Kotlin
 - 🤔 I’m looking for help with Kotlin
 - 💬 Ask me about Server sided problems windows or linux problems, Web Development
 - 📫 How to reach me:Discord: zerox#4448
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Him
+- ⚡ Fun fact: i am always crazy. 
 
 <hr>
 
