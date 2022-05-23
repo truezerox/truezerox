@@ -1,4 +1,4 @@
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+
 <h1 align="center">Hi 👋, I'm Truezerox</h1>
 <h3 align="center">A Developer focused on Android development and full stack</h3>
 
