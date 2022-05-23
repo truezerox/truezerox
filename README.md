@@ -41,5 +41,5 @@
 <hr><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=truezerox&show_icons=true&locale=en" alt="truezerox" /></p>
 <hr><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=truezerox&" alt="truezerox" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=truezerox&" alt="truezerox" /></p>
 
