@@ -11,6 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truezerox)](https://github.com/anuraghazra/github-readme-stats)
 
