@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **A Kotlin app for Actions**
 
-- 🌱 I’m currently learning **Kotlin and Java**
+- 🌱 I’m currently learning **Kotlin,flutter,dart, and Java**
 
 - 👯 I’m looking to collaborate on **Kotlin and Webdevelopment**
 
 - 🤝 I’m looking for help with **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://www.johansteijvers.nl](https://www.johansteijvers.nl)
+- 👨‍💻 All of my projects are available at [My Github](#)
 
 - 💬 Ask me about **Kotlin,Css,front and backend development**
 
